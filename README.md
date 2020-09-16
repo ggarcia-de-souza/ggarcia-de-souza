@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Name: Guilherme Garcia de Souza OPS435 Section NAA
